@@ -1,6 +1,6 @@
 {
   "name": "docs",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "private": true,
   "author": "MUI Toolpad",
   "license": "MIT",
@@ -66,7 +66,7 @@
     "jss-rtl": "0.3.0",
     "lodash": "4.17.21",
     "lz-string": "1.5.0",
-    "markdown-to-jsx": "7.5.0",
+    "markdown-to-jsx": "7.7.0",
     "next": "^14.2.18",
     "nprogress": "0.2.0",
     "postcss": "8.4.49",
@@ -106,7 +106,7 @@
     "cpy-cli": "5.0.0",
     "cross-fetch": "4.0.0",
     "gm": "1.25.0",
-    "typescript": "5.6.3",
+    "typescript": "5.7.2",
     "typescript-to-proptypes": "2.2.1"
   }
 }

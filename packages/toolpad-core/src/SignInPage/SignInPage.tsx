@@ -331,6 +331,7 @@ function SignInPage(props: SignInPageProps) {
               color="textPrimary"
               sx={{
                 my: theme.spacing(1),
+                textAlign: 'center',
                 fontWeight: 600,
               }}
             >
@@ -528,7 +529,7 @@ function SignInPage(props: SignInPageProps) {
                       }}
                       {...slotProps?.submitButton}
                     >
-                      Sign in with {emailProvider.name || 'Email'}
+                      Sign in with Email
                     </LoadingButton>
                   )}
                 </Box>
